@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lolified
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.14.
@@ -29,3 +30,6 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# lolified
+>>>>>>> db72c18f97b83cd3cb8fff44dd76a89016dbd2d7
